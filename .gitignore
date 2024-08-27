@@ -3,10 +3,12 @@ __pycache__/
 *.py[cod]
 *.so
 
-# Virtual environment
+# Virtual Environment
+project_env/
 venv/
 env/
-
+../jedsim_env/
+jedsim_env/
 # Jupyter Notebook
 .ipynb_checkpoints
 
